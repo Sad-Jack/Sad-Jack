@@ -87,6 +87,7 @@
 - Создание тестов для **Web** и **Mobile** приложений с использованием различных инструментов.
 
 ## <a id="my-projects"></a>📚 Мои проекты:
+<img align="right" width="35%" src="attachments/gif/animation.gif">
 
 1. **Java + Rest Assured + Maven**  
    [Java Rest Assured Project](https://github.com/jackripper2703/Java-Rest-Assured)
@@ -157,4 +158,8 @@
    <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank" rel="noopener noreferrer">
       <img src="dist/introduction_to_java.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
