@@ -88,9 +88,6 @@
 
 ## <a id="my-projects"></a>📚 Мои проекты:
 
-<img align="right" id="project-image" src="attachments/gif/animation.gif" width="50%">
-
-
 1. **Java + Rest Assured + Maven**  
    [Java Rest Assured Project](https://github.com/jackripper2703/Java-Rest-Assured)
 
