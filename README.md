@@ -88,7 +88,7 @@
 
 ## <a id="my-projects"></a>📚 Мои проекты:
 
-<img align="right" id="project-image" src="attachments/gif/animation.gif" width="45%">
+<img align="right" id="project-image" src="attachments/gif/animation.gif" width="200" vspace="10">
 
 
 1. **Java + Rest Assured + Maven**  
@@ -98,6 +98,7 @@
    [Selenium Test Project on Python](https://github.com/jackripper2703/Selenium_test_project)
 
 3. **Java + Selenium Grid + Allure**  
+
    [Selenium with Grid and Allure](https://github.com/jackripper2703/SimbirSoft)
 
 4. **Kotlin**  
@@ -166,13 +167,3 @@
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
 
-
-<style>
-  @media (max-width: 600px) {
-    #project-image {
-      width: 100% !important;
-      display: block;
-      margin: 0 auto 20px auto;
-    }
-  }
-</style>
