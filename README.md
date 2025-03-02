@@ -87,7 +87,8 @@
 - Создание тестов для **Web** и **Mobile** приложений с использованием различных инструментов.
 
 ## <a id="my-projects"></a>📚 Мои проекты:
-<img align="right" width="35%" src="attachments/gif/animation.gif">
+
+<img align="right" id="project-image" src="attachments/gif/animation.gif" width="35%">
 
 1. **Java + Rest Assured + Maven**  
    [Java Rest Assured Project](https://github.com/jackripper2703/Java-Rest-Assured)
@@ -163,3 +164,13 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </p>
+
+<style>
+  @media (max-width: 600px) {
+    #project-image {
+      width: 100% !important;
+      display: block;
+      margin: 0 auto 20px auto;
+    }
+  }
+</style>
