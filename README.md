@@ -88,7 +88,7 @@
 
 ## <a id="my-projects"></a>📚 Мои проекты:
 
-<img align="right" id="project-image" src="attachments/gif/animation.gif" width="200" height="150" vspace="10">
+<img align="right" id="project-image" src="attachments/gif/animation.gif" width="50%">
 
 
 1. **Java + Rest Assured + Maven**  
