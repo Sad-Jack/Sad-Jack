@@ -158,6 +158,10 @@
    <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank" rel="noopener noreferrer">
       <img src="dist/introduction_to_java.jpg" alt="curs_selenium_java" width="200" class="cert-image" />
    </a>
+
+   <a href="https://stepik.org/cert/2900074" target="_blank" rel="noopener noreferrer">
+      <img src="curs_kotlin.jpg" alt="curs_kotlin" width="200" class="cert-image" />
+   </a>
 </p>
 
 <p align="center">
