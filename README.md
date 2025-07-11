@@ -98,7 +98,6 @@
    [Selenium Test Project on Python](https://github.com/jackripper2703/Selenium_test_project)
 
 3. **Java + Selenium Grid + Allure**  
-
    [Selenium with Grid and Allure](https://github.com/jackripper2703/SimbirSoft)
 
 4. **Kotlin**  
