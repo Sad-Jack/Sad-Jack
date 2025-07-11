@@ -160,7 +160,7 @@
    </a>
 
    <a href="https://stepik.org/cert/2900074" target="_blank" rel="noopener noreferrer">
-      <img src="curs_kotlin.jpg" alt="curs_kotlin" width="200" class="cert-image" />
+      <img src="dist/curs_kotlin.jpg" alt="curs_kotlin" width="200" class="cert-image" />
    </a>
 </p>
 
