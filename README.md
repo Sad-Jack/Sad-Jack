@@ -1,141 +1,173 @@
-# Привет, я Константин! 👋
-- [🚀 Что я умею](#what-i-can-do)
-- [📚 Мои проекты](#my-projects)
-- [🎯 Мои достижения](#my-achievements)
-- [🎨 Вне работы](#outside-of-work)
-- [🏅 Сертификаты](#certificates)
+# Привет, я Константин
+
+- [Обо мне](#about)
+- [Чем я занимаюсь](#what-i-do)
+- [Текущий стек](#stack)
+- [Проекты](#projects)
+- [Опыт и результаты](#experience)
+- [Сейчас изучаю](#learning-ml)
+- [Сертификаты](#certificates)
+- [Контакты](#contacts)
 
 ---
 
-Я — ***QA Automation Engineer*** с опытом работы более 3 лет.
-Пишу автотесты на Kotlin и Java, работаю на всех уровнях: UI, API, интеграции, БД.
-Выступаю драйвером задач: беру работу с минимальной постановкой, формализую требования, оформляю документацию и довожу до результата.
-Глубоко понимаю, как работает backend, умею локализовать дефекты через логи (OpenSearch, Kibana), API и SQL-запросы.
+## <a id="about"></a>Обо мне
+
+Я `QA Automation Engineer` с опытом более `4 лет` в тестировании веб-, мобильных и backend-систем.
+
+Основной фокус:
+- автоматизация `API`, `UI`, `DB` и интеграционных сценариев
+- тестирование микросервисной архитектуры
+- анализ логов, трассировок и бизнес-событий
+- формализация требований и превращение неясной задачи в проверяемый сценарий
+
+Сейчас работаю в `SENSE group`, где автоматизирую backend- и UI-проверки на `Kotlin`, тестирую интеграции между сервисами, проверяю события в `Kafka`, валидирую данные в `PostgreSQL` и `MongoDB`, а также разбираю инциденты через `Jaeger` и `OpenSearch`.
+
+Параллельно системно двигаюсь в сторону `Machine Learning`: усиливаю Python-базу, изучаю data pipelines, классический ML и практики работы с данными.
 
 ---
 
-<p align="right">
-  <b> 🌐 Связаться со мной:</b>  
-</p>
-<p align="right">
-    <a href="https://t.me/JACK_R_I_P" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="JACK_R_I_P" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/jack-ripper-367171340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack-ripper-367171340" height="30" width="40" /></a>
+## <a id="what-i-do"></a>Чем я занимаюсь
+
+- Пишу и поддерживаю автотесты на `Kotlin`, `Java` и `Python`
+- Проверяю `REST API`, `SOAP`, интеграции, очереди сообщений и бизнес-логику сервисов
+- Покрываю тестами `UI`, `API`, `БД`, мокированные и end-to-end сценарии
+- Диагностирую дефекты через `OpenSearch`, `Kibana`, `Grafana`, `Jaeger`, `SQL`
+- Работаю с `PostgreSQL`, `MongoDB`, `Oracle`, готовлю тестовые данные и валидирую состояние системы
+- Подключаю тесты к `CI/CD`, разбираю падения пайплайнов и повышаю стабильность прогонов
+- Участвую в ревью, проработке требований, тест-дизайне и технической документации
+
+---
+
+## <a id="stack"></a>Текущий стек
+
+**Языки и основы**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,py,bash,html,css" alt="Languages" />
 </p>
 
-<p align="left">
-  <b>Языки программирования:</b>  
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,py,bash,css,html" alt="Languages" />
+**Инструменты разработки**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,postman" alt="Development Tools" />
 </p>
 
-<p align="right">
-  <b>Инструменты разработки:</b>  
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,jenkins,postman" alt="Development Tools" />
+**Тестирование и инфраструктура**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,gherkin,docker,jenkins,git,github,gitlab,linux" alt="Testing and Infra" />
 </p>
 
-<p align="left">
-  <b>Работа с системами контроля версий:</b>  
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+**Базы данных и наблюдаемость**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana" alt="Databases and Observability" />
 </p>
 
-<p align="right">
-  <b>Тестирование и автоматизация:</b>  
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=selenium,gherkin" alt="Testing" />
-</p>
+**Дополнительно**
 
-<p align="left">
-  <b>Инфраструктура и DevOps:</b>  
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,powershell,bash" alt="DevOps" />
-</p>
+- `JUnit5`, `Selenide`, `REST Assured`, `Cucumber`, `WireMock`
+- `Kafka`, `Swagger`, `DevTools`, `DBeaver`, `Xcode`, `Android Studio`
+- `Jaeger`, `TestOps`, `Jenkins`, `GitLab CI/CD`
 
-<p align="right">
-  <b>Базы данных и аналитика:</b>  
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=postgres,elasticsearch,grafana" alt="Databases and Analytics" />
-</p>
+---
 
-<p align="left">
-  <b>Операционные системы:</b>  
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" alt="Operating Systems" />
-</p>
+## <a id="projects"></a>Проекты
 
-<p align="right">
-  <b>Дизайн и работа с UI:</b>  
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=figma" alt="UI Tools" />
-</p>
+1. **Machine Learning | Customer Churn Prediction**  
+   [Customer Churn Prediction](https://github.com/Sad-Jack/customer-churn-prediction)
 
-
-## <a id="what-i-can-do"></a>🚀 Что я умею:
-
-- Пишу автотесты на UI, API и БД уровнях с использованием Kotlin, Java, Python, Selenide, REST-assured, JUnit, Cucumber.
-- Тестирую REST и SOAP API, использую Postman, Swagger, WireMock для ручных и интеграционных проверок.
-- Анализирую логи через OpenSearch, Grafana, выявляю дефекты, подтверждаю гипотезы.
-- Использую SQL (PostgreSQL, Oracle) для диагностики багов, подготовки данных и проверки логики.
-- Веду задачи с нуля: разбираюсь в бизнес-логике, фиксирую сценарии, оформляю документацию в Confluence.
-- Работаю с CI/CD (Jenkins, GitLab), подключаюсь к пайплайнам, отслеживаю стабильность и падения.
-- Использую Git в командной работе, участвую в ревью.
-- Проводил ручное тестирование мобильных приложений (Android, iOS) на реальных устройствах и эмуляторах.
-## <a id="my-projects"></a>📚 Мои проекты:
-
-1. **Java + Rest Assured + Maven**  
+2. **Java + Rest Assured + Maven**  
    [Java Rest Assured Project](https://github.com/jackripper2703/Java-Rest-Assured)
 
-2. **Python + Selenium**  
+3. **Python + Selenium**  
    [Selenium Test Project on Python](https://github.com/jackripper2703/Selenium_test_project)
 
-3. **Java + Selenium Grid + Allure**  
+4. **Java + Selenium Grid + Allure**  
    [Selenium with Grid and Allure](https://github.com/jackripper2703/SimbirSoft)
 
-4. **Kotlin**  
+5. **Kotlin**  
    [Kotlin Telegram Bot](https://github.com/Sad-Jack/PartyPlanner)
 
-
-## <a id="my-achievements"></a>🎯 Мои достижения:
-
-- Писал автоматизированные тесты для **UI** и **API** с использованием **Cucumber**, начиная проект с нуля.
-- Проводил **внутренние приемки** в сложной **финтех** компании, тестируя важные бизнес-логики и интеграции.
-- Самостоятельно прорабатывал задачи без описания: уточнял логику, документировал и доводил до завершения.
-- Провёл рефакторинг автотестов: убрал дубли, улучшил читаемость и поддержку.
-
-## <a id="outside-of-work"></a>🎨 Вне работы:
-- Я увлекаюсь чтением книг по личностному росту и технологиям.
-- Люблю решать алгоритмические задачи на **Codewars** и делиться опытом с коллегами.
-- Активно участвую в айти митапах, где всегда можно узнать что-то новое и поделиться идеями.
-- В свободное время наслаждаюсь настольными играми и китайским чаем.
-
-![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
-
-
-<p align="right">
-<a href="https://www.codewars.com/users/Sad-Jack" target="blank"><img align="center" src="https://www.codewars.com/users/Sad-Jack/badges/large" alt="Sad-Jack"/></a>
-</p>
+Профиль будет дальше дополняться ML-проектами и Python-репозиториями, чтобы последовательно отражать мой переход в сторону работы с данными и `Machine Learning`.
 
 ---
 
-Я всегда открыт для новых проектов, интересных задач и команды, с которой можно расти вместе! Если ты ищешь кого-то, кто
-готов погружаться в сложные процессы тестирования и предлагать решения — я здесь.
+## <a id="experience"></a>Опыт и результаты
+
+### SENSE group
+`Сентябрь 2025 — настоящее время`
+
+- Автоматизация backend- и UI-проверок на `Kotlin`, `JUnit5`, `Gradle`, `REST Assured`, `Selenide`
+- Тестирование микросервисных интеграций, событий в `Kafka`, данных в `PostgreSQL` и `MongoDB`
+- Анализ межсервисных вызовов через `Jaeger`, логов и событий через `OpenSearch`
+- Использование `WireMock` и `Proxyman` для изоляции зависимостей и анализа трафика
+
+### AVOSEND
+`Июль 2024 — Сентябрь 2025`
+
+- Разрабатывал и поддерживал тестовую базу для `Web`, `Mobile`, `API` и `DB`
+- Работал со стеком `Kotlin`, `Spring Boot`, `JUnit5`, `Selenide`, `REST Assured`, `JDBC`, `Cucumber`
+- Участвовал в улучшении архитектуры автотестов и сокращении технического долга
+- Брал в работу задачи без формализованного описания и доводил их до документации и проверяемого результата
+
+### SberTech
+`Август 2023 — Июль 2024`
+
+- Автоматизировал сквозные сценарии `UI + API` на `Java`, `Maven`, `JUnit`, `Selenium`, `REST Assured`
+- Интегрировал проверки в `Jenkins`, работал с `Docker` и `Selenoid`
+- Поддерживал стандарты тестовой документации и участвовал в `PR review`
+
+### AppEvent
+`Март 2022 — Август 2023`
+
+- Строил с нуля автотесты на `Python`, `Selenium`, `PyTest`, `Allure`
+- Тестировал мобильные и веб-продукты, API и бизнес-логику через `Postman`, `Swagger`, `DBeaver`
+- Помогал систематизировать тестовую логику, окружения и регрессионные прогоны
+
+**Что умею приносить команде**
+
+- Усиливаю качество не только тестами, но и ясностью в требованиях
+- Нахожу дефекты на стыке сервисов, данных и бизнес-логики
+- Улучшаю читаемость и поддержку тестовой базы через рефакторинг
+- Работаю в задачах, где нужно сначала разобраться, а уже потом автоматизировать
 
 ---
 
-## <a id="certificates"></a>🏅 Сертификаты:
+## <a id="learning-ml"></a>Сейчас изучаю
+
+`Machine Learning` для меня сейчас не декоративный пункт в профиле, а отдельный вектор развития.
+
+Фокус на ближайший период:
+- `Python` для задач работы с данными
+- `NumPy`, `Pandas`, базовый `EDA`
+- классические ML-подходы и построение простых пайплайнов
+- оформление pet-проектов так, чтобы они показывали не только код, но и ход мысли: данные, гипотезы, метрики, выводы
+
+Мне интересна зона пересечения `QA`, `данных` и `ML`: автоматизация проверок, валидация качества, тестирование data-driven систем и дальнейший переход в более сильную инженерную работу вокруг ML-продуктов.
+
+Что уже делаю в этом направлении:
+- ML-проект: [Customer Churn Prediction](https://github.com/Sad-Jack/customer-churn-prediction)
+- Курс на Stepik: [Machine Learning](https://stepik.org/course/281722/promo)
+- Telegram-канал: [ML Road](https://t.me/ML_Road)
+
+---
+
+## <a id="contacts"></a>Контакты
+
+- Telegram: [@JACK_R_I_P](https://t.me/JACK_R_I_P)
+- Telegram-канал: [ML Road](https://t.me/ML_Road)
+- LinkedIn: [konstantin-semionov-367171340](https://www.linkedin.com/in/konstantin-semionov-367171340/)
+- Email: [sad.sadsad.sad@yandex.ru](mailto:sad.sadsad.sad@yandex.ru)
+
+---
+
+## <a id="certificates"></a>Сертификаты
 
 <p align="center">
    <a href="https://www.sololearn.com/en/certificates/CC-NV6X6H3J" target="_blank" rel="noopener noreferrer">
-      <img src="dist/java_intermediate.jpg" alt="curs_selenium_java" width="400" class="cert-image" />
+      <img src="dist/java_intermediate.jpg" alt="java_intermediate" width="400" class="cert-image" />
    </a>
 
    <a href="https://stepik.org/cert/2466534" target="_blank" rel="noopener noreferrer">
@@ -155,11 +187,11 @@
    </a>
 
    <a href="https://www.sololearn.com/en/certificates/CC-NVNGG3W6" target="_blank" rel="noopener noreferrer">
-      <img src="dist/introduction_to_html.jpg" alt="curs_selenium_java" width="400" class="cert-image" />
+      <img src="dist/introduction_to_html.jpg" alt="introduction_to_html" width="400" class="cert-image" />
    </a>
 
    <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank" rel="noopener noreferrer">
-      <img src="dist/introduction_to_java.jpg" alt="curs_selenium_java" width="400" class="cert-image" />
+      <img src="dist/introduction_to_java.jpg" alt="introduction_to_java" width="400" class="cert-image" />
    </a>
 
    <a href="https://stepik.org/cert/2900074" target="_blank" rel="noopener noreferrer">
@@ -167,7 +199,14 @@
    </a>
 </p>
 
+---
+
+![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  <a href="https://www.codewars.com/users/Sad-Jack" target="_blank">
+    <img src="https://www.codewars.com/users/Sad-Jack/badges/large" alt="Sad-Jack" />
+  </a>
 </p>
 
+Сейчас мой основной вектор развития связан с `Machine Learning`: учусь, собираю практические проекты и последовательно строю карьеру в этом направлении.
