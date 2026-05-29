@@ -18,7 +18,6 @@
 [![ML Road](https://img.shields.io/badge/ML_Road-канал-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ML_Road)
 [![Stepik](https://img.shields.io/badge/Stepik-курс-1A75BB?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/course/281722/promo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-semionov-367171340/)
-[![Email](https://img.shields.io/badge/Email-yandex-FC3F1D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sad.sadsad.sad@yandex.ru)
 
 🇷🇺 **Русский**  ·  [🇬🇧 English](README.en.md)
 
@@ -182,7 +181,6 @@ Machine Learning для меня — не декоративная строчк�
 - **Telegram:** [@JACK_R_I_P](https://t.me/JACK_R_I_P)
 - **Канал ML Road:** [@ML_Road](https://t.me/ML_Road)
 - **LinkedIn:** [konstantin-semionov](https://www.linkedin.com/in/konstantin-semionov-367171340/)
-- **Email:** <sad.sadsad.sad@yandex.ru>
 
 ---
 
