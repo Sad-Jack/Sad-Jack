@@ -1,212 +1,212 @@
-# Привет, я Константин
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        HEADER / BANNER                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-- [Обо мне](#about)
-- [Чем я занимаюсь](#what-i-do)
-- [Текущий стек](#stack)
-- [Проекты](#projects)
-- [Опыт и результаты](#experience)
-- [Сейчас изучаю](#learning-ml)
-- [Сертификаты](#certificates)
-- [Контакты](#contacts)
+<div align="center">
+
+<a href="https://github.com/Sad-Jack">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=210&section=header&text=Jack%20Ripper&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=Konstantin%20%E2%80%A2%20QA%20Automation%20%E2%86%92%20Machine%20Learning%20%2F%20AI&descAlignY=56&descSize=18&animation=fadeIn" alt="banner" />
+</a>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=7AA2F7&center=true&vCenter=true&width=680&lines=QA+Automation+Engineer+%C2%B7+4%2B+%D0%B3%D0%BE%D0%B4%D0%B0;%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE+%D0%B8%D0%B4%D1%83+%D0%B2+Machine+Learning+%2F+AI;%D0%90%D0%B2%D1%82%D0%BE%D1%80+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0+ML+Road;%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+%E2%86%92+%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D1%8B+%E2%86%92+%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8+%E2%86%92+%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B" alt="typing" />
+</a>
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@JACK__R__I__P-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JACK_R_I_P)
+[![ML Road](https://img.shields.io/badge/ML_Road-канал-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ML_Road)
+[![Stepik](https://img.shields.io/badge/Stepik-курс-1A75BB?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/course/281722/promo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-semionov-367171340/)
+[![Email](https://img.shields.io/badge/Email-yandex-FC3F1D?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:sad.sadsad.sad@yandex.ru)
+
+🇷🇺 **Русский**  ·  [🇬🇧 English](README.en.md)
+
+![profile views](https://komarev.com/ghpvc/?username=Sad-Jack&style=flat&color=7aa2f7&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## <a id="about"></a>Обо мне
+## 🧭 Навигация
 
-Я `QA Automation Engineer` с опытом более `4 лет` в тестировании веб-, мобильных и backend-систем.
+[Обо мне](#-обо-мне) · [Проект ML Road](#-проект-ml-road) · [Курс в ML](#-сейчас-двигаюсь-в-ml) · [Стек](#-текущий-стек) · [Опыт](#-опыт-и-результаты) · [Проекты](#-проекты) · [Сертификаты](#-сертификаты) · [Контакты](#-контакты)
 
-Основной фокус:
-- автоматизация `API`, `UI`, `DB` и интеграционных сценариев
+---
+
+## 👋 Обо мне
+
+Я **QA Automation Engineer** с опытом более 4 лет в тестировании веб-, мобильных и backend-систем.
+
+**Основной фокус:**
+- автоматизация API, UI, DB и интеграционных сценариев
 - тестирование микросервисной архитектуры
 - анализ логов, трассировок и бизнес-событий
 - формализация требований и превращение неясной задачи в проверяемый сценарий
 
-Сейчас работаю в `SENSE group`, где автоматизирую backend- и UI-проверки на `Kotlin`, тестирую интеграции между сервисами, проверяю события в `Kafka`, валидирую данные в `PostgreSQL` и `MongoDB`, а также разбираю инциденты через `Jaeger` и `OpenSearch`.
+Сейчас работаю в **SENSE group**: автоматизирую backend- и UI-проверки на Kotlin, тестирую интеграции между сервисами, проверяю события в Kafka, валидирую данные в PostgreSQL и MongoDB, разбираю инциденты через Jaeger и OpenSearch.
 
-Параллельно системно двигаюсь в сторону `Machine Learning`: усиливаю Python-базу, изучаю data pipelines, классический ML и практики работы с данными.
-
----
-
-## <a id="what-i-do"></a>Чем я занимаюсь
-
-- Пишу и поддерживаю автотесты на `Kotlin`, `Java` и `Python`
-- Проверяю `REST API`, `SOAP`, интеграции, очереди сообщений и бизнес-логику сервисов
-- Покрываю тестами `UI`, `API`, `БД`, мокированные и end-to-end сценарии
-- Диагностирую дефекты через `OpenSearch`, `Kibana`, `Grafana`, `Jaeger`, `SQL`
-- Работаю с `PostgreSQL`, `MongoDB`, `Oracle`, готовлю тестовые данные и валидирую состояние системы
-- Подключаю тесты к `CI/CD`, разбираю падения пайплайнов и повышаю стабильность прогонов
-- Участвую в ревью, проработке требований, тест-дизайне и технической документации
+Параллельно системно двигаюсь в **Machine Learning** — и веду об этом открыто в проекте ML Road.
 
 ---
 
-## <a id="stack"></a>Текущий стек
+## 🚀 Проект ML Road
+
+> **ML Road** — мой проект, где я учу ML и AI с нуля простым языком, без перегруза и «сначала выучи матан».
+
+| | |
+|---|---|
+| 📚 **Бесплатный курс на Stepik** | 99 уроков, от баз до AI/LLM — [открыть](https://stepik.org/course/281722/promo) |
+| 📱 **Telegram-канал** | дневник обучения, заметки и разборы — [@ML_Road](https://t.me/ML_Road) |
+| 💬 **Чат сообщества** | вопросы и общение — [ML_Road_Chat](https://t.me/ML_Road_Chat) |
+| 🧪 **Pet-проект** | Customer Churn Prediction — [репозиторий](https://github.com/Sad-Jack/customer-churn-prediction) |
+
+QA-бэкграунд помогает смотреть на ML инженерно: данные, метрики, пайплайны, тестирование и поведение моделей в продакшене.
+
+---
+
+## 🤖 Сейчас двигаюсь в ML
+
+Machine Learning для меня — не декоративная строчка, а отдельный вектор развития.
+
+**Фокус на ближайший период:**
+- Python для работы с данными
+- NumPy, Pandas, базовый EDA
+- классические ML-подходы и простые пайплайны
+- pet-проекты, которые показывают не только код, но и ход мысли: `данные → гипотезы → метрики → выводы`
+
+Интересна зона пересечения **QA, данных и ML**: валидация качества, тестирование data-driven систем и инженерная работа вокруг ML-продуктов.
+
+---
+
+## 🛠 Текущий стек
 
 **Языки и основы**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,py,bash,html,css" alt="Languages" />
-</p>
+![Languages](https://skillicons.dev/icons?i=kotlin,java,py,bash,html,css)
 
 **Инструменты разработки**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,postman" alt="Development Tools" />
-</p>
+![Dev Tools](https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,postman)
 
 **Тестирование и инфраструктура**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,gherkin,docker,jenkins,git,github,gitlab,linux" alt="Testing and Infra" />
-</p>
+![Testing & Infra](https://skillicons.dev/icons?i=selenium,gherkin,docker,jenkins,git,github,gitlab,linux)
 
 **Базы данных и наблюдаемость**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana" alt="Databases and Observability" />
-</p>
+![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana)
 
-**Дополнительно**
-
-- `JUnit5`, `Selenide`, `REST Assured`, `Cucumber`, `WireMock`
-- `Kafka`, `Swagger`, `DevTools`, `DBeaver`, `Xcode`, `Android Studio`
-- `Jaeger`, `TestOps`, `Jenkins`, `GitLab CI/CD`
+**Дополнительно:** JUnit5 · Selenide · REST Assured · Cucumber · WireMock · Kafka · Swagger · DBeaver · Jaeger · TestOps · Jenkins · GitLab CI/CD
 
 ---
 
-## <a id="projects"></a>Проекты
+## 📊 Статистика GitHub
 
-1. **Machine Learning | Customer Churn Prediction**  
-   [Customer Churn Prediction](https://github.com/Sad-Jack/customer-churn-prediction)
+<div align="center">
 
-2. **Java + Rest Assured + Maven**  
-   [Java Rest Assured Project](https://github.com/jackripper2703/Java-Rest-Assured)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sad-Jack&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Jack&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7aa2f7" alt="top langs" />
 
-3. **Python + Selenium**  
-   [Selenium Test Project on Python](https://github.com/jackripper2703/Selenium_test_project)
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Jack&hide_border=true&theme=tokyonight&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="streak" />
 
-4. **Java + Selenium Grid + Allure**  
-   [Selenium with Grid and Allure](https://github.com/jackripper2703/SimbirSoft)
+<img src="https://github-profile-trophy.vercel.app/?username=Sad-Jack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
-5. **Kotlin**  
-   [Kotlin Telegram Bot](https://github.com/Sad-Jack/PartyPlanner)
-
-Профиль будет дальше дополняться ML-проектами и Python-репозиториями, чтобы последовательно отражать мой переход в сторону работы с данными и `Machine Learning`.
+</div>
 
 ---
 
-## <a id="experience"></a>Опыт и результаты
+## 💼 Опыт и результаты
 
-### SENSE group
-`Сентябрь 2025 — настоящее время`
+### 🔹 SENSE group · `Сентябрь 2025 — настоящее время`
+- Автоматизация backend- и UI-проверок на Kotlin, JUnit5, Gradle, REST Assured, Selenide
+- Тестирование микросервисных интеграций, событий в Kafka, данных в PostgreSQL и MongoDB
+- Анализ межсервисных вызовов через Jaeger, логов и событий через OpenSearch
+- WireMock и Proxyman для изоляции зависимостей и анализа трафика
 
-- Автоматизация backend- и UI-проверок на `Kotlin`, `JUnit5`, `Gradle`, `REST Assured`, `Selenide`
-- Тестирование микросервисных интеграций, событий в `Kafka`, данных в `PostgreSQL` и `MongoDB`
-- Анализ межсервисных вызовов через `Jaeger`, логов и событий через `OpenSearch`
-- Использование `WireMock` и `Proxyman` для изоляции зависимостей и анализа трафика
+### 🔹 AVOSEND · `Июль 2024 — Сентябрь 2025`
+- Тестовая база для Web, Mobile, API и DB
+- Стек: Kotlin, Spring Boot, JUnit5, Selenide, REST Assured, JDBC, Cucumber
+- Улучшение архитектуры автотестов и сокращение техдолга
+- Доведение неформализованных задач до документации и проверяемого результата
 
-### AVOSEND
-`Июль 2024 — Сентябрь 2025`
+### 🔹 SberTech · `Август 2023 — Июль 2024`
+- Сквозные сценарии UI + API на Java, Maven, JUnit, Selenium, REST Assured
+- Интеграция проверок в Jenkins, работа с Docker и Selenoid
+- Стандарты тестовой документации, PR review
 
-- Разрабатывал и поддерживал тестовую базу для `Web`, `Mobile`, `API` и `DB`
-- Работал со стеком `Kotlin`, `Spring Boot`, `JUnit5`, `Selenide`, `REST Assured`, `JDBC`, `Cucumber`
-- Участвовал в улучшении архитектуры автотестов и сокращении технического долга
-- Брал в работу задачи без формализованного описания и доводил их до документации и проверяемого результата
+### 🔹 AppEvent · `Март 2022 — Август 2023`
+- Автотесты с нуля на Python, Selenium, PyTest, Allure
+- Тестирование мобильных и веб-продуктов, API и бизнес-логики через Postman, Swagger, DBeaver
 
-### SberTech
-`Август 2023 — Июль 2024`
-
-- Автоматизировал сквозные сценарии `UI + API` на `Java`, `Maven`, `JUnit`, `Selenium`, `REST Assured`
-- Интегрировал проверки в `Jenkins`, работал с `Docker` и `Selenoid`
-- Поддерживал стандарты тестовой документации и участвовал в `PR review`
-
-### AppEvent
-`Март 2022 — Август 2023`
-
-- Строил с нуля автотесты на `Python`, `Selenium`, `PyTest`, `Allure`
-- Тестировал мобильные и веб-продукты, API и бизнес-логику через `Postman`, `Swagger`, `DBeaver`
-- Помогал систематизировать тестовую логику, окружения и регрессионные прогоны
-
-**Что умею приносить команде**
-
+**Что приношу команде**
 - Усиливаю качество не только тестами, но и ясностью в требованиях
 - Нахожу дефекты на стыке сервисов, данных и бизнес-логики
 - Улучшаю читаемость и поддержку тестовой базы через рефакторинг
-- Работаю в задачах, где нужно сначала разобраться, а уже потом автоматизировать
+- Сначала разбираюсь — потом автоматизирую
 
 ---
 
-## <a id="learning-ml"></a>Сейчас изучаю
+## 📂 Проекты
 
-`Machine Learning` для меня сейчас не декоративный пункт в профиле, а отдельный вектор развития.
+**🤖 ML / AI**
+- [Customer Churn Prediction](https://github.com/Sad-Jack/customer-churn-prediction) — предсказание оттока клиентов
+- [Team of Agents](https://github.com/Sad-Jack/Team-of-agents) — мультиагентная система
+- [EasyManageBot](https://github.com/Sad-Jack/EasyManageBot) — Telegram-бот на базе AI-агента
+- [ML Road](https://github.com/Sad-Jack/ML_Road) — база знаний и офлайн-учебник по ML/AI
 
-Фокус на ближайший период:
-- `Python` для задач работы с данными
-- `NumPy`, `Pandas`, базовый `EDA`
-- классические ML-подходы и построение простых пайплайнов
-- оформление pet-проектов так, чтобы они показывали не только код, но и ход мысли: данные, гипотезы, метрики, выводы
-
-Мне интересна зона пересечения `QA`, `данных` и `ML`: автоматизация проверок, валидация качества, тестирование data-driven систем и дальнейший переход в более сильную инженерную работу вокруг ML-продуктов.
-
-Что уже делаю в этом направлении:
-- ML-проект: [Customer Churn Prediction](https://github.com/Sad-Jack/customer-churn-prediction)
-- Курс на Stepik: [Machine Learning](https://stepik.org/course/281722/promo)
-- Telegram-канал: [ML Road](https://t.me/ML_Road)
+**🧪 QA Automation**
+- [Java + REST Assured + Maven](https://github.com/jackripper2703/Java-Rest-Assured)
+- [Python + Selenium](https://github.com/jackripper2703/Selenium_test_project)
+- [Selenium Grid + Allure (SimbirSoft)](https://github.com/jackripper2703/SimbirSoft)
+- [PartyPlanner (Kotlin)](https://github.com/Sad-Jack/PartyPlanner)
 
 ---
 
-## <a id="contacts"></a>Контакты
+## 🎓 Сертификаты
 
-- Telegram: [@JACK_R_I_P](https://t.me/JACK_R_I_P)
-- Telegram-канал: [ML Road](https://t.me/ML_Road)
-- LinkedIn: [konstantin-semionov-367171340](https://www.linkedin.com/in/konstantin-semionov-367171340/)
-- Email: [sad.sadsad.sad@yandex.ru](mailto:sad.sadsad.sad@yandex.ru)
+<details>
+<summary><b>Развернуть галерею сертификатов</b></summary>
 
----
+<br/>
 
-## <a id="certificates"></a>Сертификаты
+[![java_intermediate](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/java_intermediate.jpg)](https://www.sololearn.com/en/certificates/CC-NV6X6H3J)
+[![curs_selenium_java](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/curs_selenium_java.jpg)](https://stepik.org/cert/2466534)
+[![curs_api_rest_assured](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/curs_api_rest_assured.jpg)](https://stepik.org/cert/2427706)
+[![curs_selenium_python](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/curs_selenium_python.jpg)](https://stepik.org/cert/2093169)
+[![curs_html_css](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/curs_html_css.jpg)](https://stepik.org/cert/2440785)
+[![introduction_to_java](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/introduction_to_java.jpg)](https://www.sololearn.com/en/certificates/CC-OCZMJC4D)
+[![curs_kotlin](https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/curs_kotlin.jpg)](https://stepik.org/cert/2900074)
 
-<p align="center">
-   <a href="https://www.sololearn.com/en/certificates/CC-NV6X6H3J" target="_blank" rel="noopener noreferrer">
-      <img src="dist/java_intermediate.jpg" alt="java_intermediate" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://stepik.org/cert/2466534" target="_blank" rel="noopener noreferrer">
-      <img src="dist/curs_selenium_java.jpg" alt="curs_selenium_java" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://stepik.org/cert/2427706" target="_blank" rel="noopener noreferrer">
-      <img src="dist/curs_api_rest_assured.jpg" alt="curs_api_rest_assured" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://stepik.org/cert/2093169" target="_blank" rel="noopener noreferrer">
-      <img src="dist/curs_selenium_python.jpg" alt="curs_selenium_python" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://stepik.org/cert/2440785" target="_blank" rel="noopener noreferrer">
-      <img src="dist/curs_html_css.jpg" alt="curs_html_css" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://www.sololearn.com/en/certificates/CC-NVNGG3W6" target="_blank" rel="noopener noreferrer">
-      <img src="dist/introduction_to_html.jpg" alt="introduction_to_html" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://www.sololearn.com/en/certificates/CC-OCZMJC4D" target="_blank" rel="noopener noreferrer">
-      <img src="dist/introduction_to_java.jpg" alt="introduction_to_java" width="400" class="cert-image" />
-   </a>
-
-   <a href="https://stepik.org/cert/2900074" target="_blank" rel="noopener noreferrer">
-      <img src="dist/curs_kotlin.jpg" alt="curs_kotlin" width="400" class="cert-image" />
-   </a>
-</p>
+</details>
 
 ---
 
-![Snake animation](https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg)
+## 📫 Контакты
 
-<p align="center">
-  <a href="https://www.codewars.com/users/Sad-Jack" target="_blank">
-    <img src="https://www.codewars.com/users/Sad-Jack/badges/large" alt="Sad-Jack" />
-  </a>
-</p>
+- **Telegram:** [@JACK_R_I_P](https://t.me/JACK_R_I_P)
+- **Канал ML Road:** [@ML_Road](https://t.me/ML_Road)
+- **LinkedIn:** [konstantin-semionov](https://www.linkedin.com/in/konstantin-semionov-367171340/)
+- **Email:** <sad.sadsad.sad@yandex.ru>
 
-Сейчас мой основной вектор развития связан с `Machine Learning`: учусь, собираю практические проекты и последовательно строю карьеру в этом направлении.
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://Sad-Jack.github.io/Sad-Jack/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
+[![Codewars](https://www.codewars.com/users/Sad-Jack/badges/large)](https://www.codewars.com/users/Sad-Jack)
+
+<br/>
+
+> Основной вектор развития — **Machine Learning**: учусь, собираю проекты и последовательно строю карьеру в этом направлении.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" alt="footer" />
+
+</div>
