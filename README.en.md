@@ -105,12 +105,7 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sad-Jack&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad-Jack&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7aa2f7" alt="top langs" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Jack&hide_border=true&theme=tokyonight&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sad-Jack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sad-Jack&hide_border=true&theme=tokyonight&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="streak" />
 
 </div>
 
