@@ -84,19 +84,34 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 
 ![Languages](https://skillicons.dev/icons?i=kotlin,java,py,bash,html,css)
 
+**AI tools**
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-1a1b27?style=for-the-badge&logo=claudecode&logoColor=D97757)](https://claude.com/claude-code)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
+
 **Development tools**
 
-![Dev Tools](https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,maven,postman)
+![Dev Tools](https://skillicons.dev/icons?i=idea,androidstudio,vscode,obsidian,gradle,maven,postman)
 
 **Testing & infrastructure**
 
-![Testing & Infra](https://skillicons.dev/icons?i=selenium,gherkin,docker,jenkins,git,github,gitlab,linux)
+![Testing & Infra](https://skillicons.dev/icons?i=selenium,gherkin,docker,jenkins,kafka,git,github,gitlab,linux)
 
 **Databases & observability**
 
 ![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana)
 
-**Also:** JUnit5 · Selenide · REST Assured · Cucumber · WireMock · Kafka · Swagger · DBeaver · Jaeger · TestOps · Jenkins · GitLab CI/CD
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-2D9CDB?style=for-the-badge&logo=jaeger&logoColor=white)
+![Proxyman](https://img.shields.io/badge/Proxyman-6E56CF?style=for-the-badge)
+![Yandex Tracker](https://img.shields.io/badge/Yandex_Tracker-FC3F1D?style=for-the-badge&logo=yandexcloud&logoColor=white)
+![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-FA541C?style=for-the-badge)
+
+**Also:** JUnit5 · Selenide · REST Assured · Cucumber · WireMock · Swagger · DBeaver · GitLab CI/CD
 
 ---
 
@@ -144,6 +159,7 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 ## 📂 Projects
 
 **🤖 ML / AI**
+- [Voice Wheel](https://github.com/Sad-Jack/voice-wheel) — AI voice clipboard for macOS: hold a button, speak, pick a mode — paste the processed result
 - [Customer Churn Prediction](https://github.com/Sad-Jack/customer-churn-prediction) — customer churn prediction
 - [Team of Agents](https://github.com/Sad-Jack/Team-of-agents) — multi-agent system
 - [EasyManageBot](https://github.com/Sad-Jack/EasyManageBot) — Telegram bot powered by an AI agent
@@ -154,6 +170,11 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 - [Python + Selenium](https://github.com/jackripper2703/Selenium_test_project)
 - [Selenium Grid + Allure (SimbirSoft)](https://github.com/jackripper2703/SimbirSoft)
 - [PartyPlanner (Kotlin)](https://github.com/Sad-Jack/PartyPlanner)
+- [Selenium + Python (Stepik course)](https://github.com/Sad-Jack/stepik_auto_tests_course) — test automation course assignments
+
+**📚 Kotlin practice**
+- [AndroidSprint](https://github.com/Sad-Jack/AndroidSprint) — Kotlin course assignments
+- [QuoteParser](https://github.com/Sad-Jack/QuoteParser) — small Kotlin parser exercise
 
 ---
 
