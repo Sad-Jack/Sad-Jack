@@ -90,6 +90,7 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 [![Claude Code](https://img.shields.io/badge/Claude_Code-1a1b27?style=for-the-badge&logo=claudecode&logoColor=D97757)](https://claude.com/claude-code)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
+[![Ollama](https://img.shields.io/badge/Ollama-1a1b27?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 
 **Development tools**
