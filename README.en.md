@@ -86,11 +86,7 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 
 **AI tools**
 
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/claude.svg" alt="Claude" title="Claude" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/claude-code.svg" alt="Claude Code" title="Claude Code" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/codex.svg" alt="Codex" title="Codex" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/ollama.svg" alt="Ollama" title="Ollama" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/claude.svg" alt="Claude" title="Claude" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/claude-code.svg" alt="Claude Code" title="Claude Code" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/codex.svg" alt="Codex" title="Codex" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/ollama.svg" alt="Ollama" title="Ollama" />
 
 **Development tools**
 
@@ -102,13 +98,7 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 
 **Databases & observability**
 
-![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana)
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/kibana.svg" alt="Kibana" title="Kibana" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/opensearch.svg" alt="OpenSearch" title="OpenSearch" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/jaeger.svg" alt="Jaeger" title="Jaeger" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/proxyman.svg" alt="Proxyman" title="Proxyman" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/yandex-tracker.svg" alt="Yandex Tracker" title="Yandex Tracker" />
-<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/allure-testops.svg" alt="Allure TestOps" title="Allure TestOps" />
+![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana) <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/kibana.svg" alt="Kibana" title="Kibana" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/opensearch.svg" alt="OpenSearch" title="OpenSearch" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/jaeger.svg" alt="Jaeger" title="Jaeger" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/proxyman.svg" alt="Proxyman" title="Proxyman" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/yandex-tracker.svg" alt="Yandex Tracker" title="Yandex Tracker" /> <img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/allure-testops.svg" alt="Allure TestOps" title="Allure TestOps" />
 
 **Also:** JUnit5 · Selenide · REST Assured · Cucumber · WireMock · Swagger · DBeaver · GitLab CI/CD
 
