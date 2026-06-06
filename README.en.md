@@ -86,12 +86,11 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 
 **AI tools**
 
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-1a1b27?style=for-the-badge&logo=claudecode&logoColor=D97757)](https://claude.com/claude-code)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
-[![Ollama](https://img.shields.io/badge/Ollama-1a1b27?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
-[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/claude.svg" alt="Claude" title="Claude" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/claude-code.svg" alt="Claude Code" title="Claude Code" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/codex.svg" alt="Codex" title="Codex" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/ollama.svg" alt="Ollama" title="Ollama" />
 
 **Development tools**
 
@@ -104,13 +103,12 @@ I'm drawn to the intersection of **QA, data and ML**: quality validation, testin
 **Databases & observability**
 
 ![Databases & Observability](https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,grafana)
-
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-2D9CDB?style=for-the-badge&logo=jaeger&logoColor=white)
-![Proxyman](https://img.shields.io/badge/Proxyman-6E56CF?style=for-the-badge)
-![Yandex Tracker](https://img.shields.io/badge/Yandex_Tracker-FC3F1D?style=for-the-badge&logo=yandexcloud&logoColor=white)
-![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-FA541C?style=for-the-badge)
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/kibana.svg" alt="Kibana" title="Kibana" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/opensearch.svg" alt="OpenSearch" title="OpenSearch" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/jaeger.svg" alt="Jaeger" title="Jaeger" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/proxyman.svg" alt="Proxyman" title="Proxyman" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/yandex-tracker.svg" alt="Yandex Tracker" title="Yandex Tracker" />
+<img width="48" height="48" src="https://github.com/Sad-Jack/Sad-Jack/raw/main/dist/icons/allure-testops.svg" alt="Allure TestOps" title="Allure TestOps" />
 
 **Also:** JUnit5 · Selenide · REST Assured · Cucumber · WireMock · Swagger · DBeaver · GitLab CI/CD
 
