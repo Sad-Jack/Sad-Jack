@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@JACK__R__I__P-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JACK_R_I_P)
+[![Telegram](https://img.shields.io/badge/Telegram-@JACK__RIPPER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JACK_RIPPER)
 [![ML Road](https://img.shields.io/badge/ML_Road-канал-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ML_Road)
 [![Stepik](https://img.shields.io/badge/Stepik-курс-1A75BB?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/course/281722/promo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-semionov-367171340/)
