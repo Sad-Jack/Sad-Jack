@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/Sad-Jack">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=210&section=header&text=𝔍𝔞𝔠𝔨 𝔗𝔥𝔢 ℜ𝔦𝔭𝔭𝔢𝔯&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=Konstantin%20%E2%80%A2%20QA%20Automation%20%E2%86%92%20Machine%20Learning%20%2F%20AI&descAlignY=56&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=210&section=header&text=𝔍𝔞𝔠𝔨%20𝔗𝔥𝔢%20ℜ𝔦𝔭𝔭𝔢𝔯&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=Konstantin%20%E2%80%A2%20QA%20Automation%20%E2%86%92%20Machine%20Learning%20%2F%20AI&descAlignY=56&descSize=18&animation=fadeIn" alt="banner" />
 </a>
 
 <a href="https://readme-typing-svg.demolab.com">
